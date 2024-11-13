@@ -1,6 +1,6 @@
 ## Authors
-##  RAMU CN
-##  Rama Krishna
+##  `RAMU CN`
+##  `Ram Krishna Reddy`
 
 # This is a simple project devloped using Spring boot and PostgreSQL 
 
